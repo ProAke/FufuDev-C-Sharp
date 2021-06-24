@@ -1,0 +1,16 @@
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\FufuDev-C-Sharp.exe
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\FufuDev-C-Sharp.deps.json
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\FufuDev-C-Sharp.runtimeconfig.json
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\FufuDev-C-Sharp.runtimeconfig.dev.json
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\FufuDev-C-Sharp.dll
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\ref\FufuDev-C-Sharp.dll
+C:\dev\DevC\FufuDev-C-Sharp\bin\Debug\net5.0\FufuDev-C-Sharp.pdb
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.csproj.AssemblyReference.cache
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.AssemblyInfoInputs.cache
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.AssemblyInfo.cs
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.csproj.CoreCompileInputs.cache
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.dll
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\ref\FufuDev-C-Sharp.dll
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.pdb
+C:\dev\DevC\FufuDev-C-Sharp\obj\Debug\net5.0\FufuDev-C-Sharp.genruntimeconfig.cache
